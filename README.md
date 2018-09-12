@@ -1,5 +1,5 @@
 # WebCrawler
-Basic web crawlers 
+Basic web crawler from a news website then send articles links to an email address.
 
 Bug:
 PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
