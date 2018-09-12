@@ -23,14 +23,14 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-App<basicwebcrawler>",
+            "name": "Debug (Launch)-App<newswebcrawler>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopOnEntry": false,
-            "mainClass": "com.oscartran.basicwebcrawler.App",
+            "mainClass": "com.oscartran.newswebcrawler.App",
             "args": "",
-            "projectName": "basicwebcrawler"
+            "projectName": "newswebcrawler"
         },
         {
             "type": "java",
